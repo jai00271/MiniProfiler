@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityTool.Web", "UtilityTool\UtilityTool.Web.csproj", "{EBD6858F-EFF9-4A76-902B-8B7583960171}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UtilityTool.DataBase", "UtilityTool.DataBase\UtilityTool.DataBase.csproj", "{6EDE3C77-A703-48DA-8801-189F3E5BA0EA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBD6858F-EFF9-4A76-902B-8B7583960171}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBD6858F-EFF9-4A76-902B-8B7583960171}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBD6858F-EFF9-4A76-902B-8B7583960171}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBD6858F-EFF9-4A76-902B-8B7583960171}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EDE3C77-A703-48DA-8801-189F3E5BA0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EDE3C77-A703-48DA-8801-189F3E5BA0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EDE3C77-A703-48DA-8801-189F3E5BA0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EDE3C77-A703-48DA-8801-189F3E5BA0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BBA27D56-29C5-4443-A12C-378465F3EBDB}
+	EndGlobalSection
+EndGlobal

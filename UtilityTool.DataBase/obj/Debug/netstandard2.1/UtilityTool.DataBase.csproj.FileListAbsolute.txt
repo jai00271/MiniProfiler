@@ -1,0 +1,8 @@
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\bin\Debug\netstandard2.1\UtilityTool.DataBase.deps.json
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\bin\Debug\netstandard2.1\UtilityTool.DataBase.dll
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\obj\Debug\netstandard2.1\UtilityTool.DataBase.AssemblyInfoInputs.cache
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\obj\Debug\netstandard2.1\UtilityTool.DataBase.AssemblyInfo.cs
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\bin\Debug\netstandard2.1\UtilityTool.DataBase.pdb
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\obj\Debug\netstandard2.1\UtilityTool.DataBase.dll
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\obj\Debug\netstandard2.1\UtilityTool.DataBase.pdb
+C:\Users\singh4m\source\repos\UtilityTool\UtilityTool.DataBase\obj\Debug\netstandard2.1\UtilityTool.DataBase.csprojAssemblyReference.cache

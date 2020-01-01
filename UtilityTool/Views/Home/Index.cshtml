@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model String
+
+<div class="text-center">
+    <h1 class="display-4">Try Your Luck</h1>
+    @*<button>Submit</button>*@
+    <input type="button"
+           value="Try"
+           onclick="location.href='@Url.Action("Try","Home")'" />
+    
+    <p>@Model</p>
+</div>
